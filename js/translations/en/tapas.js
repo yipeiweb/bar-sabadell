@@ -1,0 +1,28 @@
+export default {
+    title: 'Tapas',
+    content: {
+        'Fried chicken wings': 4.5,
+        'Chicken / ham croquettes': 4,
+        'Meat skewers': 3.5,
+        'Tripe': 6,
+        'Meatballs with sauce': 5,
+        'Fried ribs with salt and pepper': 5.5,
+        'Ribs with tomato sauce': 4.5,
+        'Serrano ham': 6,
+        'Ham and cheese': 6,
+        'Cheese': 6,
+        'Fried squids': 6.8,
+        'Fried fish': 4.5,
+        'Steamed mussels': 4,
+        'Squid a la romana': 7.2,
+        'Galician octopus': 8,
+        'Octopus with tomato sauce': 8,
+        'Salted prawns': 6.8,
+        'Grilled prawns': 6.8,
+        'Battered prawns': 6.8,
+        'Anchovies with vinegar': 3,
+        'Spicy potatoes': 3.5,
+        'Prawns with garlic': 8.8,
+        'Sardine': 5,
+    }
+}
