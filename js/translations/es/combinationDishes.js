@@ -8,13 +8,22 @@ export default {
         'Salchicas con huevo y patatas fritas': 4.5,
         'Frankfurt con patata': 4,
         'Butifarra con judía, huevo y pimiento verde': 5.5,
-        'Bistec con patata y ensaladas': 6.5,
-        'Espárrago a la plancha con jamón y tortilla a la francesa': 5.5,
-        'Beicon con huevo y patata': 5,
+        'Bistec con patatas': 6.8,
+        'Espárrago a la plancha con jamón y tortilla a la francesa': 5.5,/**/
+        'Beicon, chistorra, huevo y patatas': 5.5,
         'Chuletas de cerdo a la plancha': 5.5,
         'Chuletas de corderos a la plancha': 6.5,
         'Merluza rebozada con patatas': 5.5,
+        'Merluza a la plancha con patatas': 5.5,
         'Lenguado a la plancha con patatas': 6.8,
-        'Sepia a la plancha con patatas': 8
+        'Sepia a la plancha con patatas': 8,
+        'Hamburguesa con huevos, ensalada y patatas': 5.8,
+        'Chistorra, jamon, huevos y patatas': 6.5,
+        'Combinados fritos': 6.8,
+        'Hamburguesa con patatas': 5,
+        'Lenguado frito con patatas': 6.8,
+        'Pincho de cerdo con patatas': 4.8,
+        'Pechuga a la plancha y ensalada': 6.8,
+        'Nuggets with potatoes': 6.8,
     }
 }

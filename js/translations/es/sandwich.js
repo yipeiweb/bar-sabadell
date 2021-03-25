@@ -18,7 +18,7 @@ export default {
                 'Tortilla francesa':'2.8',
                 'Tortilla jamón': '3.5',
                 'Tortilla patatas': '3.5',
-                'Calamares': '4',
+                'Calamares a la romana': '4',
                 'Bikini': '2.5',
             } ,
             cold: {

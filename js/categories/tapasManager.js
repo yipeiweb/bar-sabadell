@@ -43,8 +43,10 @@ export default class TapasManager {
                 tapasContainer.innerHTML +=`
                     <div class="card diy-card mb-4">
                         <div class="card-body">
+                            <a class="${data.content[key].image == '' ? 'd-none' : ''} text-dark mr-2" 
+                            href="${data.content[key].image}"><i class="fa fa-eye"></i></a>
                             <span>${key}</span>
-                            <strong class="float-right">${data.content[key]}€</strong>
+                            <strong class="float-right">${data.content[key].price}€</strong>
                         </div>
                     </div>`; 
             }

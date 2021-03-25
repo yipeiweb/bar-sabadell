@@ -21,15 +21,15 @@ export default {
         title: 'Second',
         content: [
             'Battered chicken breast',
-            'Longaniza with chips',
-            'Hake battered with chips',
+            'Longaniza with potatoes',
+            'Hake battered with potatoes',
             'Fried Noodles',
             'Grilled pork chops'
         ],
         images: [
             'https://drive.google.com/uc?id=1pDLB2wNTbbI6vkZ3_4jM25F4p1RY0ext',
             'https://drive.google.com/uc?id=12w3mCEGe-f3GQAzOI-rs0W5vTWYCATxe',
-            '',
+            'https://drive.google.com/uc?id=1FEsx1oCAyTNGjhMFERixwopcHU-mqFch',
             'https://drive.google.com/uc?id=1qmGK8O1tILy8KqWbcQzcPA7xMFayofFN',
             'https://drive.google.com/uc?id=1LBxg0hgIQtqODZNr9ZHsnNGmDLnz_Exs',
         ]

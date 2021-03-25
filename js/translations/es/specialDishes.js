@@ -4,11 +4,9 @@ export default {
        'Sopa de wan-tun': 3,
        'Sopa de tomate': 3,
        'Sopa agripicante': 3,
-       'Sopa de pollo con champiñones': 3,
-       'Sopa de huevo revuelto': 3,
-       'Sopa de maíz con carne de cangrejo': 3,
+       'Sopa de marisco': 4,
+       'Ensalada de atún y huevo': 3.85,
        'Ensalada verde': 4,
-       'Ensalada de frutas': 4.5,
        'Ensalada mixtas': 4,
        'Ensalada rusa': 3.5,
        'Ensalada de aguacate con langostinos': 5,
@@ -31,5 +29,7 @@ export default {
        'Pinchos de gamba con sal y pimiento': 10.25,
        'Dorada a la plancha': 8.8,
        'Lomo rebozados': 4.5,
+       'Lenguado a la plancha': 5.8,
+       'Bacalao con guarnición': 6.5,
     }
 }

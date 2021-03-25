@@ -18,7 +18,7 @@ export default {
                 'French omelette': '2.8',
                 'Ham omelette': '3.5',
                 'Potato omelette': '3.5',
-                'Fried squids': '4',
+                'Fried calamari': '4',
                 'Bikini': '2.5',
             },
             cold: {
