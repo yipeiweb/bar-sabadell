@@ -1,6 +1,7 @@
 export default {
     categories: {
         title: 'Sandwiches',
+        image: 'https://drive.google.com/uc?id=1RKodfQXwIrpjrdZFMGtqBEbQZUrAZNCa',
         types: {
             titles: {
                 'hot': 'Hot sandwiches',

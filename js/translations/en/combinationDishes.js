@@ -39,7 +39,7 @@ export default {
         } ,
         'Bacon, chistorra, egg and potatoes': {
             price: 5.5,
-            image: 'https://drive.google.com/uc?id=1SRJrDGdT0CM8LvRXV-oFHU2r45AEGeM'
+            image: 'https://drive.google.com/uc?id=1SRJrDGdT0CM8LvRXV-oFHU2r45AEGeMl'
         },
         'Grilled pork potatoes': {
             price: 5.5,

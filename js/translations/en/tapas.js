@@ -38,7 +38,7 @@ export default {
             image: 'https://drive.google.com/uc?id=138HuxLjWG9yeZszSbR2pQlj9n_1hdnjd'
         } ,
         'Fried squids': {
-            price: 6.8,
+            price: 7.2,
             image: 'https://drive.google.com/uc?id=1XevNrfr-Ujk2PbljHYJ4BlJ8qqm7eS5F'
         },
         'Fried fish': {
@@ -74,7 +74,7 @@ export default {
             image: 'https://drive.google.com/uc?id=13wIpTyxS53u0qXfZDa7Qaq2xITP1N0rx'
         },
         'Anchovies with vinegar':{
-            price: 3,
+            price: 4,
             image: 'https://drive.google.com/uc?id=1hfYLDD4H4D0FOaGo7U-uaKfcs-SKNj0K'
         } ,
         'Spicy potatoes':{
