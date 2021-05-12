@@ -93,8 +93,8 @@ export default {
             price: 6.8,
             image: 'https://drive.google.com/uc?id=18XmLQeJJCgKKPDbxS_JNu_x1WcQLaiGo'
         } ,
-        'Nuggets with potatoes': {
-            price: 6.8,
+        'Nuggets con patatas': {
+            price: 4.5,
             image: 'https://drive.google.com/uc?id=1k0KJyiWJFRoc64mO0phE6sIhj3KMLz9B'
         } ,
     }

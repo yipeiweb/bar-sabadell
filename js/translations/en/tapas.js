@@ -6,7 +6,7 @@ export default {
             image: 'https://drive.google.com/uc?id=1Aje86aMhOOoSkN3q35jOupt7q7kGnfZb'
         } ,
         'Chicken/ham croquettes': {
-            price:  4,
+            price:  3.5,
             image: 'https://drive.google.com/uc?id=1rAm0C-7iLjXE1Y7tRSCkNshOJ1ZerL8T'
         },
         'Meat skewers': {

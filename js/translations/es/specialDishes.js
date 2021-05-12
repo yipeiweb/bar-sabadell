@@ -62,7 +62,7 @@ export default {
             image: 'https://drive.google.com/uc?id=1OF__ix5IKzSMyLOXNMDPUZjxWur0GNq-'
         },
         'Arroz frito':  {
-            price: 4,
+            price: 4.5,
             image: 'https://drive.google.com/uc?id=1pv_2x3FydA0a43wodaWZc7y4GlU8t_Y2'
         },
         'Arroz frito con gambas':  {
@@ -78,11 +78,11 @@ export default {
             image: 'https://drive.google.com/uc?id=1LZdNCy0iFWx-YWLcSS6oKQ-JOYJg8ZVv'
         },
         'Fideo de arroz fritos':  {
-            price: 4.5,
+            price: 5,
             image: 'https://drive.google.com/uc?id=19MQjCzVmVTMVHcs4wW7k9TjntLERALrn'
         },
         'Tallarines fritos':  {
-            price: 4,
+            price: 4.5,
             image: 'https://drive.google.com/uc?id=123vrzJbcBXs_l20w0IZt1k4c-SBGTZ6Z'
         },
         'Tallarines transparentes fritos':  {
@@ -97,7 +97,7 @@ export default {
             price: 6,
             image: 'https://drive.google.com/uc?id=11QgU-ncYo6aLrE8JQKbC8RBM71liHi1S'
         },
-        'Gambos a la plancha': {
+        'Gambones a la plancha': {
             price:  8,
             image: 'https://drive.google.com/uc?id=1WxE8nHEkjfa_XxSWqN4NQcjf4zJezTDf'
         },
